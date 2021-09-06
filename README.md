@@ -1,7 +1,7 @@
 # HTML-CSS-Cheatsheet
 
 >Cheatsheet tool for HTML and CSS operations.  
->Live site [_here_](https://nanipeters.github.io/html-css-cheatsheet/).
+>Visit the live site <a href="https://nanipeters.github.io/html-css-cheatsheet/" target="_blank"><em>here</em></a>.
 
 ## Table of contents
 [General info](#General-info)
