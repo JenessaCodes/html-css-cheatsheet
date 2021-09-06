@@ -11,6 +11,8 @@
 
 [Status](#Status)
 
+[Inspiration](#Inspiration)
+
 [Contact](#Contact)
 ### General info 
 
@@ -27,6 +29,10 @@ To run this project, install it locally and open index.html on browser of choice
 ### Status
 
 Project is: finished.
+
+### Inspiration
+
+Based on the Codecademy ideas.
 
 ### Contact
 
