@@ -1,6 +1,7 @@
 # HTML-CSS-Cheatsheet
 
->Cheatsheet tool for HTML and CSS operations. 
+>Cheatsheet tool for HTML and CSS operations.  
+>Live site [_here_](https://nanipeters.github.io/html-css-cheatsheet/).
 
 ## Table of contents
 [General info](#General-info)
