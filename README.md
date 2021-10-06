@@ -1,7 +1,7 @@
 # HTML-CSS-Cheatsheet
 
 >Cheatsheet tool for HTML and CSS operations.  
->Visit the live site <a href="https://nanipeters.github.io/html-css-cheatsheet/" target="_blank">here</a>.
+>Visit the live site <a href="https://jenessacodes.github.io/html-css-cheatsheet/" target="_blank">here</a>.
 
 ## Table of contents
 [General info](#General-info)
@@ -37,4 +37,4 @@ Based on the Codecademy ideas.
 
 ### Contact
 
-Created by [@NaniPeters](https://www.github.com/NaniPeters) - feel free to contact me!
+Created by [@JenessaCodes](https://www.github.com/JenessaCodes) - feel free to contact me!
